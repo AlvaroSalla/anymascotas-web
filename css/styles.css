@@ -305,6 +305,7 @@ footer ul a:hover{color:var(--mustard);}
   .sidebar-backdrop{display:block;}
   body:not(.sidebar-closed) .sidebar-backdrop{opacity:1;pointer-events:auto;}
   .hero-grid{grid-template-columns:1fr;}
+  .hero-grid > div:first-child{margin-top:20px;}
   .hero-visual{height:280px;order:-1;transform:scale(.78);transform-origin:top center;}
   .prod-grid{grid-template-columns:repeat(2,1fr);}
   .info-grid{grid-template-columns:1fr;gap:40px;}
