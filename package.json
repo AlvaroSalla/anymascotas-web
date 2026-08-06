@@ -1,0 +1,13 @@
+{
+  "name": "the-pet-stop",
+  "version": "1.0.0",
+  "description": "Landing premium para Anymascotas — alimento y variedades para mascotas",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
